@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="calc_red">#D32F2F</color>
+    <color name="calc_red_text">#FFFFFF</color>
+
+    <color name="calc_blue">#0288D1</color>
+    <color name="calc_blue_text">#FFFFFF</color>
+
+    <color name="calc_grey">#BDBDBD</color>
+    <color name="calc_grey_text">#000000</color>
+
+    <color name="calc_light_purple">#E1BEE7</color>
+    <color name="calc_light_purple_text">#000000</color>
+</resources>
